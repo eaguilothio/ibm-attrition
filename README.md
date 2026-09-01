@@ -1,7 +1,7 @@
 # People Analytics — IBM
 ¿Qué factores explican que un empleado abandone la empresa?
 
-> **Resumen ejecutivo:** la rotación global es del 16,12% (237/1.470), pero se concentra en cuatro puntos: **Sales Representative** (~40%), **horas extra** (~30% vs ~10%), **primeros 2 años en la empresa** (~30%) y **viajes frecuentes** (~30% vs ~10%). El detalle y las acciones recomendadas están más abajo.
+> **Resumen:** la rotación global es del 16,12% (237/1.470), pero se concentra en cuatro puntos: **Sales Representative** (~40%), **horas extra** (~30% vs ~10%), **primeros 2 años en la empresa** (~30%) y **viajes frecuentes** (~30% vs ~10%). El detalle y las acciones recomendadas están más abajo.
 
 ---
 
@@ -109,9 +109,6 @@ A diferencia de una columna calculada, una medida se recalcula dinámicamente se
    Tasa de Rotación = DIVIDE([Empleados Rotados], [Total Empleados], 0)
    ```
 6. Con `Tasa de Rotación` seleccionada en el panel Datos, ir a la pestaña **Herramientas de medida → Formato → Porcentaje**, 2 decimales.
-7. Clic derecho sobre la columna placeholder `Column` (dentro de `_Medidas`) → **Ocultar en vista de informe**. Así el panel solo muestra las tres medidas, sin ruido visual.
-
-> Las medidas se referencian por nombre, no por tabla de origen — los visuales del dashboard no necesitan tocarse al moverlas a `_Medidas`.
 
 ### Paso 4 — Construcción del dashboard
 
@@ -150,7 +147,7 @@ El lienzo se organiza en tres franjas: KPIs arriba, segmentaciones a la izquierd
 
 ## Resultados
 
-La tasa de rotación global es del 16,12% (237 de 1.470 empleados) — ligeramente por encima del benchmark del sector tecnológico (15%). El dato agregado no es una cifra de alarma, pero esconde una concentración muy clara: el problema no está repartido uniformemente, está localizado en perfiles y condiciones específicas.
+La tasa de rotación global es del 16,12% (237 de 1.470 empleados) — ligeramente por encima del benchmark del sector tecnológico (15%). El dato no es una cifra de alarma, pero esconde una concentración muy clara: el problema no está repartido uniformemente, está localizado en perfiles y condiciones específicas.
 
 ### 1. Sales Representative — el rol más vulnerable
 
