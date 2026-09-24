@@ -1,4 +1,4 @@
-# People Analytics — IBM
+# Employee Attrition Analysis — IBM
 ¿Qué factores explican que un empleado abandone la empresa?
 
 > **Resumen:** la rotación global es del 16,12% (237/1.470), pero se concentra en cuatro puntos: **Sales Representative** (~40%), **horas extra** (~30% vs ~10%), **primeros 2 años en la empresa** (~30%) y **viajes frecuentes** (~30% vs ~10%). El detalle y las acciones recomendadas están más abajo.
