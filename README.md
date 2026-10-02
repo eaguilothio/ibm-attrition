@@ -22,11 +22,11 @@ Antes de diseñar cualquier estrategia, hay que saber quién se va y por qué.
 --------------------------------------------------------------------------------
 
 #### Hallazgo metodológico clave: Tasa general vs. específicas
-Al analizar una problemática organizacional, **observar únicamente la tasa general (16,12%) genera una falsa sensación de normalidad**, ya que se encuentra muy cercana al benchmark del sector tecnológico (15%). 
+Al analizar la problemática de abandono, **observar únicamente la tasa general (16,12%) genera una falsa sensación de normalidad**, ya que se encuentra muy cercana al benchmark del sector tecnológico (15%). 
 
 Sin embargo, el problema general no determinaba un problema uniforme:
-* **Invisibilizar problemas específicos al resumir los datos a un solo porcentaje:** Quedarse únicamente con la cifra global oculta que el riesgo está fuertemente concentrado en áreas y condiciones concretas.
-* **Diagnóstico y ajuste de recomendaciones:** Para diseñar intervenciones efectivas, es imprescindible analizar las tasas a nivel específico. De lo contrario, se corre el riesgo de aplicar políticas genéricas e ineficaces a toda la plantilla cuando la fuga de talento responde a causas localizadas en grupos reducidos.
+* **Invisibilizar problemas específicos al resumir los datos a un solo porcentaje:** Quedarse únicamente con la cifra global oculta que el riesgo está fuertemente concentrado en áreas específicas.
+* **Diagnóstico y recomendaciones:** Para diseñar intervenciones efectivas, es imprescindible analizar las tasas a nivel específico. De lo contrario, se corre el riesgo de aplicar recomendaciones genéricas e ineficaces a toda la plantilla cuando la fuga de talento responde a causas localizadas en grupos reducidos.
 
 --------------------------------------------------------------------------------
 
