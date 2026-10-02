@@ -22,26 +22,30 @@ Antes de diseñar cualquier estrategia, hay que saber quién se va y por qué.
 --------------------------------------------------------------------------------
 
 #### Hallazgo metodológico clave: Tasa general vs. específicas
-Al analizar la problemática de abandono, **observar únicamente la tasa general (16,12%) genera una falsa sensación de normalidad**, ya que se encuentra muy cercana al benchmark del sector tecnológico (15%). 
 
-Sin embargo, el problema general no determinaba un problema uniforme:
-* **Invisibilizar problemas específicos al resumir los datos a un solo porcentaje:** Quedarse únicamente con la cifra global oculta que el riesgo está fuertemente concentrado en áreas específicas.
-* **Diagnóstico y recomendaciones:** Para diseñar intervenciones efectivas, es imprescindible analizar las tasas a nivel específico. De lo contrario, se corre el riesgo de aplicar recomendaciones genéricas e ineficaces a toda la plantilla cuando la fuga de talento responde a causas localizadas en grupos reducidos.
+Al analizar la problemática de abandono, **observamos una tasa general de rotación del 16,12%**. A simple vista, este porcentaje puede dar una **falsa sensación de normalidad**, ya que no parece una cifra especialmente alarmante.
+
+Sin embargo, al profundizar en los datos, vemos que **la rotación no se distribuye de forma uniforme**. La tasa general puede ocultar diferencias importantes entre determinados grupos.
+
+* **Invisibilizar problemas específicos:** quedarse únicamente con el porcentaje global hace que pasen desapercibidos los colectivos donde la rotación es mucho más elevada.
+
+* **Diagnóstico y recomendaciones:** para entender realmente dónde está el problema, es necesario analizar las tasas de rotación por diferentes segmentos. De lo contrario, podríamos acabar aplicando recomendaciones generales a toda la plantilla cuando el problema está más concentrado en determinados grupos.
+
 
 --------------------------------------------------------------------------------
 
 #### Resultados
 La tasa de rotación global es del 16,12% (237 de 1.470 empleados) — ligeramente por encima del benchmark del sector tecnológico (15%). El dato no es una cifra de alarma en su conjunto, pero esconde una concentración muy clara en perfiles y condiciones específicas:
 
-##### 1. Sales Representative — el rol más vulnerable
+##### 1. Sales Representative
 **~40% de tasa de rotación** — casi 1 de cada 2 Sales Representatives abandona la empresa.
 Es el rol con la mayor tasa de rotación del dataset. Una rotación elevada en este grupo puede tener implicaciones operativas relevantes, especialmente en puestos donde la experiencia y las relaciones con clientes son importantes.
 
-##### 2. Horas extra — el predictor más claro
+##### 2. Horas extra 
 **~30% de rotación con OverTime vs ~10% sin OverTime** — casi 3× más rotación entre quienes hacen horas extras.
 La asociación entre OverTime y rotación apunta a una posible relación entre carga de trabajo y abandono. Pueden ser la señal de un problema estructural de carga de trabajo o de dimensionamiento de plantilla.
 
-##### 3. Early Tenure (0–2 años) — el periodo crítico
+##### 3. Early Tenure (0–2 años)
 **~30% de rotación en los primeros dos años** — la franja de menor antigüedad concentra la mayor fuga.
 Cuando alguien se va en ese periodo, puede estar relacionado con la gestión de expectativas o la falta de acompañamiento inicial — factores que se pueden intervenir antes de que se conviertan en baja.
 
