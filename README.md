@@ -68,7 +68,7 @@ Analizar si la banda salarial está alineada con el mercado, si la carga de trab
 
 ### Primeros 2 años — programa de acompañamiento
 
-Implementar acompañamiento y revisiones periódicas de satisfacción durante los primeros 24 meses. El objetivo es detectar tempranamente posibles problemas de integración y adaptación al puesto.
+Implementar un programa de acompañamiento y revisiones periódicas de satisfacción durante los primeros 24 meses. El objetivo es detectar tempranamente posibles problemas de integración y adaptación al puesto.
 
 ### Horas extra — gestión de la carga
 
