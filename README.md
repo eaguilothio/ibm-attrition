@@ -38,19 +38,19 @@ Sin embargo, al profundizar en los datos, vemos que **la rotación no se distrib
 La tasa de rotación global es del 16,12% (237 de 1.470 empleados) — ligeramente por encima del benchmark del sector tecnológico (15%). El dato no es una cifra de alarma en su conjunto, pero esconde una concentración muy clara en perfiles y condiciones específicas:
 
 ##### 1. Sales Representative
-**40% de tasa de rotación** 
+**40% de tasa de rotación**. 
 Casi 1 de cada 2 Sales Representatives abandona la empresa. Es el rol con la mayor tasa de rotación del dataset. Una rotación elevada en este grupo puede tener implicaciones operativas relevantes, especialmente en puestos donde la experiencia y las relaciones con clientes son importantes.
 
 ##### 2. Horas extra 
-**30% de rotación con OverTime vs 10% sin OverTime** 
+**30% de rotación con OverTime vs 10% sin OverTime**.
 Casi 3 veces más rotación entre quienes hacen horas extras. La asociación entre OverTime y rotación apunta a una posible relación entre carga de trabajo y abandono. Pueden ser la señal de un problema estructural de carga de trabajo o de dimensionamiento de plantilla.
 
 ##### 3. Early Tenure (0–2 años)
-**30% de rotación en los primeros dos años vs menos del 15% en empleados más establecidos** 
+**30% de rotación en los primeros dos años vs menos del 15% en empleados más establecidos**.
 La franja de menor antigüedad concentra la mayor fuga. Cuando alguien se va en ese periodo, puede estar relacionado con la gestión de expectativas o la falta de acompañamiento inicial. 
 
 ##### 4. Viajes frecuentes 
-**~30% con Travel_Frequently vs ~10% con Non-Travel** 
+**~30% con Travel_Frequently vs ~10% con Non-Travel**.
 Viajar frecuentemente triplica la tasa de rotación. Los desplazamientos frecuentes pueden ser factores relevantes a considerar en el abandono. 
 
 --------------------------------------------------------------------------------
