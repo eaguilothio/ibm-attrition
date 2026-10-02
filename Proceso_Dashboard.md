@@ -1,4 +1,4 @@
-# Proceso Técnico y Metodología — IBM Employee Attrition
+# Metodología y construcción del dashboard — IBM Employee Attrition 
 
 #### Índice
 1. [¿Qué datos usé y de dónde salieron?](#qué-datos-usé-y-de-dónde-salieron)
