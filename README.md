@@ -49,9 +49,9 @@ Casi 3 veces más rotación entre quienes hacen horas extras. La asociación ent
 **30% de rotación en los primeros dos años vs menos del 15% en empleados más establecidos** 
 La franja de menor antigüedad concentra la mayor fuga. Cuando alguien se va en ese periodo, puede estar relacionado con la gestión de expectativas o la falta de acompañamiento inicial. 
 
-##### 4. Viajes frecuentes — desgaste por desplazamiento
+##### 4. Viajes frecuentes 
 **~30% con Travel_Frequently vs ~10% con Non-Travel** 
-Viajar frecuentemente triplica la tasa de rotación. Los desplazamientos frecuentes pueden ser factores relevantes a considerar en el abandono.
+Viajar frecuentemente triplica la tasa de rotación. Los desplazamientos frecuentes pueden ser factores relevantes a considerar en el abandono. 
 
 --------------------------------------------------------------------------------
 
