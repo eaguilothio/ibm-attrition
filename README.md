@@ -1,4 +1,4 @@
-# Employee Attrition Analysis — IBM
+# IBM Employee Attrition — IBM
 
 **¿Qué factores explican que un empleado abandone la empresa?**
 
