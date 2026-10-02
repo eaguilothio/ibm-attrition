@@ -2,7 +2,7 @@
 
 **¿Qué factores explican que un empleado abandone la empresa?**
 
-**Resumen:** la rotación global es del 16,12% (237/1.470), pero se concentra en cuatro puntos: **representante de ventas** (~40%), **horas extra** (~30% vs ~10%), **primeros 2 años en la empresa** (~30%) y **viajes frecuentes** (~30% vs ~10%). Además, el análisis destaca un hallazgo metodológico clave: resumir los datos a un solo porcentaje invisibiliza problemas específicos que requieren atención.
+**Resumen:** la rotación global es del 16,12% (237/1.470), pero se concentra en cuatro puntos: **representante de ventas** (~40%), **primeros 2 años en la empresa** (~30%), **horas extra** (~30% vs ~10%) y **viajes frecuentes** (~30% vs ~10%). Además, el análisis destaca un hallazgo metodológico clave: resumir los datos a un solo porcentaje invisibiliza problemas específicos que requieren atención.
 
 ---
 
@@ -46,13 +46,13 @@ La tasa de rotación global es del 16,12% (237 de 1.470 empleados) — ligeramen
 
 Casi 1 de cada 2 Sales Representatives abandona la empresa. Es el rol con la mayor tasa de rotación del dataset. Una rotación elevada en este grupo puede tener implicaciones operativas relevantes, especialmente en puestos donde la experiencia y las relaciones con clientes son importantes.
 
-### 2. Horas extra: **30% de rotación con horas extras vs 10% sin horas extras**
-
-Casi 3 veces más rotación entre quienes hacen horas extras. La asociación entre OverTime y rotación apunta a una posible relación entre carga de trabajo y abandono. Pueden ser la señal de un problema estructural de carga de trabajo o de dimensionamiento de plantilla.
-
-### 3. Antigüedad de 0–2 años: **30% de rotación en los primeros dos años vs menos del 15% en empleados más establecidos**
+### 2. Primeros 2 años: **30% de rotación en los primeros dos años vs menos del 15% en empleados más establecidos**
 
 La franja de menor antigüedad concentra la mayor fuga. Cuando alguien se va en ese periodo, puede estar relacionado con la gestión de expectativas o la falta de acompañamiento inicial.
+
+### 3. Horas extra: **30% de rotación con horas extras vs 10% sin horas extras**
+
+Casi 3 veces más rotación entre quienes hacen horas extras. La asociación entre OverTime y rotación apunta a una posible relación entre carga de trabajo y abandono. Pueden ser la señal de un problema estructural de carga de trabajo o de dimensionamiento de plantilla.
 
 ### 4. Viajes frecuentes: **~30% de rotación con viajes frecuentes vs ~10% sin viajes**
 
@@ -66,13 +66,13 @@ Viajar frecuentemente triplica la tasa de rotación. Los desplazamientos frecuen
 
 Analizar si la banda salarial está alineada con el mercado, si la carga de trabajo es sostenible y si las expectativas del rol están bien gestionadas. Implementar un programa de acompañamiento para detectar posibles señales de insatisfacción y riesgo de abandono.
 
-### Horas extra — gestión de la carga
-
-Analizar la frecuencia y duración de las horas extra por equipo y puesto. Revisar el dimensionamiento de plantilla y evaluar medidas de compensación cuando las horas extra sean recurrentes.
-
 ### Primeros 2 años — programa de acompañamiento
 
 Implementar acompañamiento y revisiones periódicas de satisfacción durante los primeros 24 meses. El objetivo es detectar tempranamente posibles problemas de integración y adaptación al puesto.
+
+### Horas extra — gestión de la carga
+
+Analizar la frecuencia y duración de las horas extra por equipo y puesto. Revisar el dimensionamiento de plantilla y evaluar medidas de compensación cuando las horas extra sean recurrentes.
 
 ### Viajes frecuentes — revisión de viajes
 
